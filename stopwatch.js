@@ -6,7 +6,7 @@ var Interval ;
 function startTimer() {
   tens++;
   if (tens < 10) {
-    appendTens.innerHTML= 0 + tens;}
+    appendTens.innerHTML= "0" + tens;}
   if (tens >= 10) {
     appendTens.innerHTML= tens;}
   if (tens > 99) {
