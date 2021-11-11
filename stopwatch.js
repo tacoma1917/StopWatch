@@ -27,7 +27,7 @@ function buttonStart() {
   Interval = setInterval(startTimer, 10);
 }
 function buttonStop() {
-  var x = document.getElementById('button-reset')
+  var x = document.getElementById('button-stop')
   x.style.background = "#E26A2C";
   clearInterval(Interval);
 }
