@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap");
+body{
+  background-color: #FFD07F;
+}
+#header{
+  text-align: center;
+  font-family: 'Hind', sans-serif;
+  font-weight: bolder;
+  color: #E26A2C;
+  font-weight: bolder;
+}
+#watchDiv{
+  text-align: center;
+  margin-top: 10%;
+  font-family: 'Hind', sans-serif;
+  color: white;
+  font-size: 32px;
+  font-weight: bolder;
+  border-top: 3px, solid, black;
+}.btn-lg{
+  margin-bottom: 5%;
+  background-color: #E26A2C;
+  border: 5px, solid, #E26A2C;
+
+}
+#watchDisplay{
+  margin-top: 5%;
+}
